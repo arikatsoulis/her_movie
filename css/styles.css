@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: helvetica;
+}
+
+.page1{
+	height: 100vh;
+	background-color: #D1003A;
+
+}
+
+.page1 img{
+	margin-top: 4%;
+}
+
+.top{
+	width:20%;
+	font-size: 40px;
+}
+
+.quote{
+	height: 400vh;
+	background-color: #D1003A;
+	color: white;
+}
+.page2{
+	background-image: url(images/tile.jpg);
+	height: 100vh;
+}
+
+.page2b{
+	background-image: url(images/callfrom.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.page3{
+	background-image: url(images/7.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.page4{
+	background-image: url(images/alone.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.page5{
+	background-image: url("http://i.imgur.com/yKUcELl.jpg");
+	background-size: cover;
+	height: 100vh;
+}
+
+h1{
+	font-size: 7em;
+	text-align: center;
+	margin-top: 10%;
+	font-family: helvetica, arial;
+	color: white;
+	opacity: .8;
+	text-decoration: underline;
+	letter-spacing: -.12em;
+}
+
+h2{
+	margin-top: 0px;
+	text-align: center;
+	color: white;
+	font-family: 'helvetica neue';
+	font-size: .82em;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
+#dark{
+	font-weight: bold;
+
+}
+
+p{
+	margin-left:10%;
+	color: white;
+	opacity: 0.4;
+	}
+
